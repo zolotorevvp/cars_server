@@ -1,0 +1,13 @@
+{
+  "server": {
+    "port": "CARS_SERVER_PORT"
+  },
+  "database": {
+    "dbName": "CARS_DATABASE_NAME",
+    "url": "CARS_DATABASE_URL"
+  },
+  "bcrypt": {
+    "saltRounds": "CARS_BCRYPT_SALT_ROUNDS"
+  }
+}
+
